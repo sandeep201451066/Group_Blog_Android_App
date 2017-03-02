@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00897B</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="white">#ffffff</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+
+
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#FFFFFF</color>
+    <color name="primary_darker">#FFFFFF</color>
+    <color name="accent">#FFFFFF</color>
+
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+
+    <color name="textColor">#CCCCCC</color>
+
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+
+    <color name="btn_logut_bg">#ff6861</color>
+
+</resources>

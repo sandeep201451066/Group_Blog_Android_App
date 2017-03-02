@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "217194698043",
+    "firebase_url": "https://myidea-f6631.firebaseio.com",
+    "project_id": "myidea-f6631",
+    "storage_bucket": "myidea-f6631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217194698043:android:41a604687a485763",
+        "android_client_info": {
+          "package_name": "com.example.sandeepkumar.shareidea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217194698043-luno15f6cpa75tncm2gog4fvgd8ldsgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqyaGDY_oWySxvQ40PZPWjJz0KJvgI714"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
