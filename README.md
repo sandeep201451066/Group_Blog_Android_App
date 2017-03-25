@@ -1,0 +1,2 @@
+# Group_Blog_Android_App
+This is Group Blog Android App.The objective of this app is to share ideas , social events , technical blogs. In this app user can register and login. After that user can view all the posted blogs and he can read. If he want to like it ,He can like it. give some comment on it. User can write own blogs and post it. I used Firebase database. I created database on firebase server for our application.
